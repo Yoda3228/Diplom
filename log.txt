@@ -1,0 +1,14 @@
+06/04/2021 12:28:16 PM - INFO - ***Evolving 10 generations with population 20***
+06/04/2021 12:28:16 PM - INFO - ***Doing generation 1 of 10***
+06/04/2021 12:29:10 PM - INFO - ***Evolving 10 generations with population 20***
+06/04/2021 12:29:10 PM - INFO - ***Doing generation 1 of 10***
+06/04/2021 12:30:09 PM - INFO - ***Evolving 10 generations with population 20***
+06/04/2021 12:30:09 PM - INFO - ***Doing generation 1 of 10***
+06/04/2021 12:30:38 PM - INFO - ***Evolving 10 generations with population 20***
+06/04/2021 12:30:38 PM - INFO - ***Doing generation 1 of 10***
+06/04/2021 12:32:41 PM - INFO - ***Evolving 3 generations with population 5***
+06/04/2021 12:32:41 PM - INFO - ***Doing generation 1 of 3***
+06/04/2021 12:34:02 PM - INFO - ***Evolving 3 generations with population 5***
+06/04/2021 12:34:02 PM - INFO - ***Doing generation 1 of 3***
+06/04/2021 04:42:26 PM - INFO - ***Evolving 3 generations with population 5***
+06/04/2021 04:42:26 PM - INFO - ***Doing generation 1 of 3***
